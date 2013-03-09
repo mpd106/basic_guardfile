@@ -1,7 +1,7 @@
 basic_guardfile
 ===============
 
-A simple Guardfile that can be used to my usual Ruby folder structure:
+A simple Guardfile that can be used with my usual Ruby folder structure:
 
 project/
   |- source/
